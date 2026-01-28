@@ -14,7 +14,7 @@ This website showcases my skills, projects, experience, and contact information 
 - 🧭 Active navbar highlighting based on current page
 - 🧩 Reusable Navbar & Footer using JavaScript
 - 📂 Project showcase section
-- 📄 **Hire Me button downloads CV automatically (PDF)**
+- 📄 **Download CV button downloads CV automatically (PDF)**
 - 📬 Modern Contact page UI
 - 🎨 Custom color theme & animations
 - 🔗 Social media links integrated
