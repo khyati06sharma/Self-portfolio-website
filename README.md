@@ -62,7 +62,7 @@ Clicking the **download cv** button automatically downloads my CV as a **PDF fil
 
 ```html
 <a href="assets/khyati_cv.pdf" download>
-  <button class="btn">Hire Me</button>
+  <button class="btn">Download CV</button>
 </a>
 ````
 
